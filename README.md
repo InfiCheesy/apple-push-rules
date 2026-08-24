@@ -69,6 +69,7 @@ APNs
 如果两个代理节点全部故障，APNs 至少还可以退回中国大陆网络直连，避免因为代理服务器故障导致整台 iPhone 的通知全部中断。
 
 > **图片 1：APNs 策略组截图**
+>
 > <img src="images/apns-policy-group.png" width="300">
 
 ---
