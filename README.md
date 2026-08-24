@@ -109,20 +109,7 @@ APNs
 
 > **图片 2：Shadowrocket 隧道设置截图**
 >
-> 最好清楚显示：
->
-> ```text
-> 包括所有网络    开
-> 包括 APNs       开
-> 包括本地网络    关
-> 包括蜂窝服务    关
-> ```
->
-> 建议文件名：
->
-> `images/shadowrocket-tunnel.png`
-
-![Shadowrocket 隧道设置](images/shadowrocket-tunnel.png)
+> <img src="images/shadowrocket-tunnel.png" width="300">
 
 ---
 
@@ -150,17 +137,8 @@ Apple APNs Proxy
 
 > **图片 3：Shadowrocket 模块页面截图**
 >
-> 建议截图中显示：
->
-> * `Apple APNs Proxy`
-> * 模块已经启用
-> * 远程模块 URL
->
-> 建议文件名：
->
-> `images/apns-module.png`
+> <img src="images/apns-module.png" width="300">
 
-![APNs 模块](images/apns-module.png)
 
 ---
 
